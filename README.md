@@ -24,3 +24,12 @@ The dashboard analyzes employee data from 2000 to 2020, transforming raw HR reco
 - MySQL – Data cleaning, transformation, and querying
 - Power BI – Dashboard creation and interactive visualizations
 - Excel / CSV – Data source and preprocessing (if applicable)
+
+## Objective
+Data cleaning and transformation using SQL
+Building analytical dashboards in Power BI
+Extracting actionable insights from HR datasets
+
+## Dashboard Preview
+![Dashboard preview](https://github.com/user-attachments/assets/84db674a-4da3-4db1-b62a-d10e00d30517)
+
